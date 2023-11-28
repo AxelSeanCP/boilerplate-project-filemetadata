@@ -10,4 +10,4 @@ This is the boilerplate for the File Metadata Microservice project. Instructions
 > example: {"name": "file.jpg", "type": "image/jpeg", "size": 126748}. 
 
 # Live Demo
-- 
+- https://boilerplate-project-filemetadata.axelseancp.repl.co
